@@ -1,0 +1,18 @@
+1) python3 nl.py artifacts/nl_file_example.txt
+
+1 first_word
+2 second_word
+3
+4 fourth_word
+
+2) stdin: python3 nl.py
+hello_1
+1 hello_1
+privet_2
+2 privet_2
+third_word
+3 third_word
+
+4
+fifth_
+5 fifth_
